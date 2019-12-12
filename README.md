@@ -1,5 +1,6 @@
-Note-Taker-App
-Creating a web application that you can create, store, and delete notes.
+**Note-Taker-App**
+
+**Creating a web application that you can create, store, and delete notes**
 
 * This is a web application using express.js and different methods in order to GET, POST, and then DELETE in order to create notes, store them as a data.json file.
 
